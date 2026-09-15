@@ -1,6 +1,6 @@
-# 🧠⚡ Train Your Own AI
+# 🧠⚡ Orvel
 
-**Create an AI. Feed it anything. Watch it grow. Send it to solve puzzles.**
+**Orvel: train your own AI.** Create an AI. Feed it anything. Watch it grow. Send it to solve puzzles.**
 
 Think Pokémon trainer, but for AI. You start with a blank baby AI, teach it with whatever you want: notes, photos, voice memos, songs, videos, websites. It becomes *your* model, with its own knowledge, skills, and personality. Then you put it to work on tasks, puzzles, and challenges, and see how well you trained it.
 
@@ -105,7 +105,7 @@ The key design rule: **your AI can only use what you taught it.** That's what ma
 - Privacy: personal photos and voice data must stay private by default
 - Copyright rules for uploaded content and shared AIs
 - Free vs paid tiers (AI processing costs money)
-- App name (the repo name is a placeholder)
+
 
 ## 🤝 Contributing
 
